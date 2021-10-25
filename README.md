@@ -1,4 +1,4 @@
-# Computer Basics
+# Computer Officer Syllabus
 
 ## Course Content
 
